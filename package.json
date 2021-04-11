@@ -1,0 +1,18 @@
+{
+  "name": "wbdv-sp21-01-cruzp-server-node",
+  "version": "1.0.0",
+  "description": "cs5610 node server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Paulrkcruz/CS5610-spring-01-cruzp-server-node.git"
+  },
+  "author": "Paul RK Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
